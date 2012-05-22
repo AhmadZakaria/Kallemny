@@ -1,0 +1,8 @@
+diff --git a/nbproject/private/private.properties b/nbproject/private/private.properties
+index 9a434b7..59d1b78 100644
+--- a/nbproject/private/private.properties
++++ b/nbproject/private/private.properties
+@@ -1,2 +1,2 @@
+ compile.on.save=true
+-user.properties.file=/home/ahmad/.netbeans/7.1/build.properties
++user.properties.file=/home/waleed/.netbeans/7.1.2/build.properties
